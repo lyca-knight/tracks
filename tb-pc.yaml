@@ -36,6 +36,7 @@ packages:
   - 'syncthing'
   - 'celluloid'
   - 'tailscale'
+  - 'fastfetch'
   - 'steam'
 
 aur-packages:
