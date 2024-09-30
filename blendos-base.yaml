@@ -55,7 +55,6 @@ packages:
   - 'fatresize'
   - 'gpart'
   - 'gptfdisk'
-  - 'grub'
   - 'hdparm'
   - 'hyperv'
   - 'irssi'
