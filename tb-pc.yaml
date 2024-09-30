@@ -41,6 +41,7 @@ packages:
   - 'vulkan-radeon'
   - 'lib32-vulkan-radeon'
   - 'steam'
+  - 'docker'
 
 aur-packages:
   - 'extension-manager'
@@ -68,3 +69,4 @@ commands:
   - 'rm -f /usr/share/applications/bssh.desktop'
   - 'rm -f /usr/share/applications/org.gnome.Extensions.desktop'
   - 'rm -f /usr/share/applications/mpv.desktop'
+  - 'usermod -aG docker tbrummer'
