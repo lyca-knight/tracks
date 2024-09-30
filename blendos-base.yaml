@@ -114,8 +114,8 @@ packages:
   - 'xl2tpd'
   - 'bluez'
   - 'networkmanager'
+  - 'network-manager-openvpn'
   - 'cups'
-  - 'ttf-jetbrains-mono'
 
 services:
   - 'cups'
