@@ -58,7 +58,6 @@ packages:
   - 'grub'
   - 'hdparm'
   - 'hyperv'
-  - 'intel-ucode'
   - 'irssi'
   - 'less'
   - 'libfido2'
