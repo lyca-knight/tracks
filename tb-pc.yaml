@@ -51,8 +51,6 @@ services:
   - 'gdm'
   - 'dnsmasq'
   - 'tailscaled'
-  - 'mnt-personal-media.automount'
-  - 'mnt-fsp-tools.automount'
 
 user-services: 
   - 'syncthing'
@@ -70,8 +68,3 @@ commands:
   - 'rm -f /usr/share/applications/bssh.desktop'
   - 'rm -f /usr/share/applications/org.gnome.Extensions.desktop'
   - 'rm -f /usr/share/applications/mpv.desktop'
-  - 'rm -f /etc/resolv.conf'
-  - 'cp /home/tbrummer/Sync/Tools/Framework/etc/resolv.conf /etc/resolv.conf'
-  - 'chattr +i /etc/resolv.conf'
-  - 'cp /home/tbrummer/Sync/Tools/Framework/etc/systemd/system/* /etc/systemd/system/'
-  - 'chattr +i /etc/systemd/system/mnt-*'
