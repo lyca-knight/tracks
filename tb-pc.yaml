@@ -36,6 +36,7 @@ packages:
   - 'syncthing'
   - 'celluloid'
   - 'tailscale'
+  - 'steam'
 
 aur-packages:
   - 'extension-manager'
