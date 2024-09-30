@@ -114,7 +114,7 @@ packages:
   - 'xl2tpd'
   - 'bluez'
   - 'networkmanager'
-  - 'network-manager-openvpn'
+  - 'networkmanager-openvpn'
   - 'cups'
 
 services:
