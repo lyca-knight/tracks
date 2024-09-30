@@ -50,6 +50,8 @@ services:
   - 'gdm'
   - 'dnsmasq'
   - 'tailscaled'
+  - 'mnt-personal-media.automount'
+  - 'mnt-fsp-tools.automount'
 
 user-services: 
   - 'syncthing'
