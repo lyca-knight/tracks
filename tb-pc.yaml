@@ -35,7 +35,7 @@ packages:
   - 'thunderbird'
   - 'syncthing'
   - 'celluloid'
-  - 'docker'
+  - 'tailscale'
 
 aur-packages:
   - 'extension-manager'
