@@ -7,6 +7,7 @@ packages:
   - 'baobab'
   - 'gdm'
   - 'gnome-console'
+  - 'gnome-calculator'
   - 'gnome-control-center'
   - 'gnome-disk-utility'
   - 'gnome-keyring'
@@ -45,10 +46,17 @@ packages:
   - 'thunderbird'
   - 'syncthing'
   - 'celluloid'
+  - 'docker'
+  - 'gimp'
+  - 'inkscape'
+  - 'remmina'
 
 aur-packages:
   - 'rambox-pro-bin'
   - 'extension-manager'
+  - 'sejda-desktop'
+  - 'softmaker-office-2024-bin'
+  - 'bottles'
 
 services:
   - 'gdm'
