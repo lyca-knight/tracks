@@ -3,6 +3,7 @@ impl: 'https://github.com/lyca-knight/tracks/raw/main'
 track: 'blendos-base'
 
 packages:
+  - 'plymouth'
   - 'gdm'
   - 'gnome-console'
   - 'gnome-calculator'
