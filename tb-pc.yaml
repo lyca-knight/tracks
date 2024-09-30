@@ -37,6 +37,8 @@ packages:
   - 'celluloid'
   - 'tailscale'
   - 'fastfetch'
+  - 'vulkan-radeon'
+  - 'lib32-vulkan-radeon'
   - 'steam'
 
 aur-packages:
