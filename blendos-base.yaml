@@ -11,6 +11,7 @@ packages:
   - 'bash'
   - 'bzip2'
   - 'coreutils'
+  - 'dracut'
   - 'file'
   - 'filesystem-blend'
   - 'findutils'
